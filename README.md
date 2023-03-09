@@ -1,1 +1,1 @@
-# Eye-Blink-detection
+This code is for prevention from road accidents that happen due to drowsiness. The code constantly monitors if the eyes of the driver are open or not and if it is closed for more than a specific time it gives 3 warnings, if the driver doesn't open their eye even after warning buzzer it shuts down the veichle. 
